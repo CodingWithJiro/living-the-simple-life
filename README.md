@@ -1,25 +1,26 @@
-# 📁 Living the Simple Life - Personal Blog Website
+# 💻 Living the Simple Life - Personal Blog Website
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Responsive](https://img.shields.io/badge/Responsive-Design-29a19c?style=for-the-badge&logo=resize&logoColor=white)
+[![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
 ![Multi Page](https://img.shields.io/badge/Multi--Page-Website-blueviolet?style=for-the-badge)
-![Accessible](https://img.shields.io/badge/Accessible-A11Y-ffd700?style=for-the-badge)
-![Beginner Friendly](https://img.shields.io/badge/Beginner--Friendly-77DD77?style=for-the-badge)
-![Semantic HTML](https://img.shields.io/badge/Semantic-HTML5-lightgrey?style=for-the-badge)
-![Frontend Practice](https://img.shields.io/badge/Frontend-Practice-00bfff?style=for-the-badge)
+![Semantic HTML](https://img.shields.io/badge/Semantic%20HTML-ff9800?style=for-the-badge)
+![Accessible](https://img.shields.io/badge/Accessibility-A11Y-0052cc?style=for-the-badge)
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-2196F3?style=for-the-badge&logo=responsive&logoColor=white)
+![Mobile Friendly](https://img.shields.io/badge/Mobile%20Friendly-%E2%9C%85-1E293B?style=for-the-badge&logo=responsive-design&logoColor=white)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5e912ca7-f79a-49ba-9741-c30b92cf981f/deploy-status)](https://living-the-simple-life-responsive.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/273b38a7-5ec3-4f2a-b287-c13409cde7d6/deploy-status)](https://living-the-simple-life-jiro.netlify.app/)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
-![Learning Path](https://img.shields.io/badge/learning%20path-month%203-blue)
+![Learning Path](https://img.shields.io/badge/learning%20path-month%202-blue)
 
 ## ℹ️ A Multi-Page Responsive Blog Layout with Semantic HTML and CSS Grid
 
-<div style="display: flex, align-items: center, justify-content: center, flex-flow: row wrap">
-    <img src="./screenshot1.png" alt="Screenshot of the project page." width="300">
-    <img src="./screenshot2.png" alt="Screenshot of the project page." width="300">
-    <img src="./screenshot3.png" alt="Screenshot of the project page." width="300">
-</div>
+| _Mobile Preview (375x812)_                       | _Desktop Preview (1440x960)_                        |
+| ------------------------------------------------ | --------------------------------------------------- |
+| ![Mobile](./img/site-preview-mobile_375x812.png) | ![Desktop](./img/site-preview-desktop_1440x960.png) |
 
 This is a simple personal blog layout built with HTML5 and CSS3. It contains three fully responsive pages that highlight personal information and blog-style entries using semantic structure, responsive design, and basic accessibility.
 
@@ -74,20 +75,22 @@ Each page shares a consistent header and footer, with main content blocks that v
 
 - HTML5
 - CSS3
+- Git
+- GitHub
+- Netlify
 
 ---
 
 ## 🚀 How to Run
 
 1. Clone the repository
-2. Navigate to this project folder
-3. Open `index.html` in your browser
+2. Open `index.html` in your browser
 
 ---
 
 ## 🌐 Live Demo
 
-Or you can check out the 👉 [live website here](https://living-the-simple-life-responsive.netlify.app/)
+Or you can check out the 👉 [live website here](https://living-the-simple-life-jiro.netlify.app/)
 
 ---
 
@@ -97,4 +100,4 @@ Created by **Elmar Chavez**
 
 🗓️ Month/Year: **May 2025**
 
-📚 Journey: **3rd** month of learning _frontend web development_.
+📚 Journey: **2<sup>nd</sup>** month of learning _frontend web development_.
