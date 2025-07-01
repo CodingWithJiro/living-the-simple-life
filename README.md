@@ -15,6 +15,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/273b38a7-5ec3-4f2a-b287-c13409cde7d6/deploy-status)](https://living-the-simple-life-jiro.netlify.app/)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%202-blue)
+![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.living-the-simple-life&left_text=repo%20views)
 
 ## ℹ️ A Multi-Page Responsive Blog Layout with Semantic HTML and CSS Grid
 
