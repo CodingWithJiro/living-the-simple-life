@@ -1,4 +1,4 @@
-# 💻 Living the Simple Life - Personal Blog Website
+# Living the Simple Life - Personal Blog Website
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -17,7 +17,7 @@
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%202-blue)
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.living-the-simple-life&left_text=repo%20views)
 
-## ℹ️ A Multi-Page Responsive Blog Layout with Semantic HTML and CSS Grid
+## A Multi-Page Responsive Blog Layout with Semantic HTML and CSS Grid
 
 | _Mobile Preview (375x812)_                       | _Desktop Preview (1440x960)_                        |
 | ------------------------------------------------ | --------------------------------------------------- |
@@ -27,7 +27,7 @@ This is a simple personal blog layout built with HTML5 and CSS3. It contains thr
 
 ---
 
-## 🔍 Overview
+## Overview
 
 This project is a continuation of my frontend learning path, where I practiced creating multiple HTML pages styled consistently with a single CSS file. It emphasizes layout structure using CSS Grid and mobile-first responsive techniques. The design follows clean and modern web standards with accessible HTML elements and ARIA support.
 
@@ -35,7 +35,7 @@ Each page shares a consistent header and footer, with main content blocks that v
 
 ---
 
-## ✨ Features
+## Features
 
 - Responsive multi-page layout (`index`, `about-me`, and `recent-posts`)
 - Semantic HTML5 structure with `<main>`, `<header>`, `<section>`, `<article>`, and `<footer>`
@@ -48,7 +48,7 @@ Each page shares a consistent header and footer, with main content blocks that v
 
 ---
 
-## 📚 Included Pages
+## Included Pages
 
 - **Home (`index.html`)**  
   Displays a welcome message and latest content in a grid layout.
@@ -61,7 +61,7 @@ Each page shares a consistent header and footer, with main content blocks that v
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - How to structure multi-page websites with shared layout elements
 - Practical use of CSS Grid for entire page layout and components
@@ -72,7 +72,7 @@ Each page shares a consistent header and footer, with main content blocks that v
 
 ---
 
-## 🛠️ Tech Used
+## Tech Used
 
 - HTML5
 - CSS3
@@ -82,23 +82,23 @@ Each page shares a consistent header and footer, with main content blocks that v
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository
 2. Open `index.html` in your browser
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
-Or you can check out the 👉 [live website here](https://living-the-simple-life-jiro.netlify.app/)
+Or you can check out the **[live website here](https://living-the-simple-life-jiro.netlify.app/)**
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
 Created by **Elmar Chavez**
 
-🗓️ Month/Year: **May 2025**
+Month/Year: **May 2025**
 
-📚 Journey: **2<sup>nd</sup>** month of learning _frontend web development_.
+Journey: **2<sup>nd</sup>** month of learning _frontend web development_.
